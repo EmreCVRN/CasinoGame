@@ -1,0 +1,11 @@
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\bin\Debug\Project_76742.exe.config
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\bin\Debug\Project_76742.exe
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\bin\Debug\Project_76742.pdb
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\obj\Debug\Project_76742.csproj.AssemblyReference.cache
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\obj\Debug\Project_76742.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\obj\Debug\Project_76742.Form1.resources
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\obj\Debug\Project_76742.Properties.Resources.resources
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\obj\Debug\Project_76742.csproj.GenerateResource.cache
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\obj\Debug\Project_76742.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\obj\Debug\Project_76742.exe
+C:\Users\emrec\OneDrive\Desktop\Project\Project_76742\Project_76742\obj\Debug\Project_76742.pdb
